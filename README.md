@@ -47,7 +47,8 @@ We made use of VS code to run the python flask application. API from postman is 
 - 🔹 Other: Postman API / VS code / Python
 
 ## 👥 Team
-- Venkatesh Bollam
+- G S Venkatesh Bollam
 - Subbarao Bhagavathula
 - Santosh Ganapathi Varma Indukuri
 - Pranay Kumar Samala
+- Kalathur Ashok Kumar
