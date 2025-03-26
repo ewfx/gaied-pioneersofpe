@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+transformers
+torch
+faiss-cpu
+PyPDF2
+beautifulsoup4
+pytesseract
+python-dotenv
+requests
+pydantic
+scikit-learn
+pillow
