@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Gen AI Orchestrator for Email and Document Triage/Routing
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+Gatekeeper application processes and classifies files such as emails, PDFs and images. It uses ML models and external APIs to classify the content of these files into predefined request and sub-request types. This also checks for any duplicate requests using Faiss index. 
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
