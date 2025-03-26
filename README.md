@@ -23,17 +23,12 @@ Gatekeeper application processes and classifies files such as emails, PDFs and i
 
 ![Screenshot 1](link-to-image)
 
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Our application classifies the emails, documents and any attachments based on the best available dataset. It make use of LLM and with the best available score, files/content gets classified into request/sub request types for further processing.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
-
-## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+We made use of VS code to run the flask application. API from postman is used to process the files from the local storage to vector db and then content gets classified accordingly using scoring mechanism.
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -50,11 +45,11 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Database: Vector DB
+- 🔹 Other: Postman API / VS code / Python
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- Venkatesh Bollam
+- Subbarao Bhagavathula
+- Santosh Ganapathi Varma Indukuri
+- Pranay Kumar Samala
