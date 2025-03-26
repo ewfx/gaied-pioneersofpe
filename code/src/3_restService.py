@@ -363,7 +363,7 @@ def classify_text(text: str) -> Tuple[str, str, float]:
     """
     try:
         response = requests.post(
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent", # Changed model here
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent",
             headers={"Content-Type": "application/json"},
             params={"key": GEMINI_API_KEY},
             json={
@@ -459,7 +459,7 @@ def classify_with_gemini(text: str) -> Tuple[str, str, float]:
     """
     try:
         response = requests.post(
-            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent", # Changed model here
+            "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent", 
             headers={"Content-Type": "application/json"},
             params={"key": GEMINI_API_KEY},
             json={
