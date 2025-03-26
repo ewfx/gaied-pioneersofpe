@@ -48,10 +48,26 @@ We made use of VS code to run the python flask application. API from postman is 
 
 
 ## 🏗️ Tech Stack
-- 🔹 Database: Vector DB
-- 🔹 Other: Postman API / VS code / Python
+   Programming Language: Python
+   Web Framework: FastAPI
+   Machine Learning Libraries:
+   Transformers (Hugging Face)
+   PyTorch
+   scikit-learn
+   PIL (Python Imaging Library)
+   pytesseract
+   faiss
+   OCR Library: pytesseract
+   Email Processing: email
+   PDF Processing: PyPDF2
+   HTTP Client: requests
+   JSON Processing: json
+   HTML Parsing: BeautifulSoup
+   Environment Management: dotenv
+   Logging: logging
 
 ## 👥 Team
+
 - G S Venkatesh Bollam
 - Subbarao Bhagavathula
 - Santosh Ganapathi Varma Indukuri
