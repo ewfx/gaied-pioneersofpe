@@ -31,7 +31,7 @@ We made use of VS code to run the python flask application. API from postman is 
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone https://github.com/ewfx/gaied-pioneersofpe.git
    ```
 2. Install dependencies  
    ```sh
@@ -41,6 +41,11 @@ We made use of VS code to run the python flask application. API from postman is 
    ```sh
    npm start  # or python app.py
    ```
+
+**Api request in postman:**
+![image](https://github.com/user-attachments/assets/f527b4ef-5f4b-4c10-b4e0-dd086785e953)
+
+
 
 ## 🏗️ Tech Stack
 - 🔹 Database: Vector DB
