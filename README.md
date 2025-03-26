@@ -3,10 +3,8 @@
 ## 📌 Table of Contents
 - [Introduction](#introduction)
 - [Demo](#demo)
-- [Inspiration](#inspiration)
 - [What It Does](#what-it-does)
 - [How We Built It](#how-we-built-it)
-- [Challenges We Faced](#challenges-we-faced)
 - [How to Run](#how-to-run)
 - [Tech Stack](#tech-stack)
 - [Team](#team)
@@ -28,7 +26,7 @@ Gatekeeper application processes and classifies files such as emails, PDFs and i
 Our application classifies the emails, documents and any attachments based on the best available dataset. It make use of LLM and with the best available score, files/content gets classified into request/sub request types for further processing.
 
 ## 🛠️ How We Built It
-We made use of VS code to run the flask application. API from postman is used to process the files from the local storage to vector db and then content gets classified accordingly using scoring mechanism.
+We made use of VS code to run the python flask application. API from postman is used to process the files from the local storage to vector db and then content gets classified accordingly using scoring mechanism.
 
 ## 🏃 How to Run
 1. Clone the repository  
