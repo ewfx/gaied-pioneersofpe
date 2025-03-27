@@ -16,7 +16,6 @@ Gatekeeper application processes and classifies files such as emails, PDFs and i
 
 ## 🎥 Demo
 🔗 [Live Demo](#) : gaied-pioneersofpe/artifacts/demo
-#🖼️ Screenshots:
 
 ![image](https://github.com/user-attachments/assets/f527b4ef-5f4b-4c10-b4e0-dd086785e953)
 
