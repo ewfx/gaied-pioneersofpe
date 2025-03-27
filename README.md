@@ -15,8 +15,8 @@
 Gatekeeper application processes and classifies files such as emails, PDFs and images. It uses ML models and external APIs to classify the content of these files into predefined request and sub-request types. This also checks for any duplicate requests using Faiss index. 
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  gaied-pioneersofpe/artifacts/demo
-🖼️ Screenshots:
+🔗 [Live Demo](#) : gaied-pioneersofpe/artifacts/demo
+#🖼️ Screenshots:
 
 ![image](https://github.com/user-attachments/assets/f527b4ef-5f4b-4c10-b4e0-dd086785e953)
 
