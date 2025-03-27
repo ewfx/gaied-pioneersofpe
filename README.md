@@ -29,6 +29,9 @@ Our application classifies the emails, documents and any attachments based on th
 We made use of VS code to run the python flask application. API from postman is used to process the files from the local storage to vector db and then content gets classified accordingly using scoring mechanism.
 
 ## 🏃 How to Run
+
+Refer Demo video & guide in the below location :  gaied-pioneersofpe/artifacts/demo
+
 1. Clone the repository  
    ```sh
    git clone https://github.com/ewfx/gaied-pioneersofpe.git
