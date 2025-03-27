@@ -35,13 +35,14 @@ We made use of VS code to run the python flask application. API from postman is 
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   pip install -r requirements.txt (for Python)
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+   python code/src/3_restService.py
    ```
 
+access the API request as shown in the below image. pass folder location as header.
 **Api request in postman:**
 ![image](https://github.com/user-attachments/assets/f527b4ef-5f4b-4c10-b4e0-dd086785e953)
 
