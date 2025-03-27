@@ -49,23 +49,23 @@ access the API request as shown in the below image. pass folder location as head
 
 
 ## 🏗️ Tech Stack
-   Programming Language: Python
-   Web Framework: FastAPI
-   Machine Learning Libraries:
-   Transformers (Hugging Face)
-   PyTorch
-   scikit-learn
-   PIL (Python Imaging Library)
-   pytesseract
-   faiss
-   OCR Library: pytesseract
-   Email Processing: email
-   PDF Processing: PyPDF2
-   HTTP Client: requests
-   JSON Processing: json
-   HTML Parsing: BeautifulSoup
-   Environment Management: dotenv
-   Logging: logging
+-Programming Language: Python
+-Web Framework: FastAPI
+-Machine Learning Libraries:
+-Transformers (Hugging Face)
+-PyTorch
+-scikit-learn
+-PIL (Python Imaging Library)
+-pytesseract
+-faiss
+-OCR Library: pytesseract
+-Email Processing: email
+-PDF Processing: PyPDF2
+-HTTP Client: requests
+-JSON Processing: json
+-HTML Parsing: BeautifulSoup
+-Environment Management: dotenv
+-Logging: logging
 
 ## 👥 Team
 
