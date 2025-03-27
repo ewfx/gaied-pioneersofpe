@@ -42,8 +42,9 @@ We made use of VS code to run the python flask application. API from postman is 
    python code/src/3_restService.py
    ```
 
-access the API request as shown in the below image. pass folder location as header.
+
 **Api request in postman:**
+Access the API request as shown in the below image. pass folder location as header.
 ![image](https://github.com/user-attachments/assets/f527b4ef-5f4b-4c10-b4e0-dd086785e953)
 
 
