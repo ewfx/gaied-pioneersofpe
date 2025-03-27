@@ -49,8 +49,8 @@ access the API request as shown in the below image. pass folder location as head
 
 
 ## 🏗️ Tech Stack
-Programming Language: Python
-Web Framework: FastAPI
+Programming Language: Python,
+Web Framework: FastAPI,
 Machine Learning Libraries:
 Transformers (Hugging Face)
 PyTorch
